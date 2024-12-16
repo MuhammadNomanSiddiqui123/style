@@ -1,0 +1,53 @@
+.nav-link:hover{
+  background-color:#47663B;;
+}
+.navbar{
+  background-color: #1F4529;;
+}
+
+.card-body{
+  background-color: black;
+}
+/* #m1{
+  width: 350px;
+  border-radius: 5px;
+  height: 250px;
+}
+#m2{
+  width: 350px;
+  border-radius: 5px;
+  height: 250px;
+}#m3{
+  width: 350px;
+  border-radius: 5px;
+  height: 250px;
+}#m4{
+  width: 350px;
+  border-radius: 5px;
+  height: 250px;
+}#m5{
+  width: 350px;
+  border-radius: 5px;
+  height: 250px;
+}#m6{
+  width: 350px;
+  border-radius: 5px;
+  height: 250px;
+}#m7{
+  width: 350px;
+  border-radius: 5px;
+  height: 250px;
+}#m8{
+  width: 350px;
+  border-radius: 5px;
+  height: 250px;
+}
+#m9{
+  width: 350px;
+  border-radius: 5px;
+  height: 250px;
+} */
+
+.fa-cart-shopping{
+  font-size: 30px;
+}
